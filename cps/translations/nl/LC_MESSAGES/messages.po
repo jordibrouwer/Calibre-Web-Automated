@@ -2754,7 +2754,7 @@ msgstr "Gelezen"
 #: cps/templates/book_table.html:135
 #, fuzzy
 msgid "Enter "
-msgstr "Identificatoren"
+msgstr "Enter"
 
 #: cps/templates/book_table.html:158 cps/templates/book_table.html:182
 #: cps/templates/book_table.html:202 cps/templates/book_table.html:222
@@ -2774,23 +2774,23 @@ msgstr "In boek met titel:"
 
 #: cps/templates/book_table.html:186
 msgid "The following books will be deleted:"
-msgstr ""
+msgstr "De volgende boeken worden verwijderd:"
 
 #: cps/templates/book_table.html:206
 msgid "The following books will be archived:"
-msgstr ""
+msgstr "De volgende boeken worden gearchiveerd:"
 
 #: cps/templates/book_table.html:226
 msgid "The following books will be unarchived:"
-msgstr ""
+msgstr "De volgende boeken worden uit het archief gehaald:"
 
 #: cps/templates/book_table.html:246
 msgid "The following books will be marked read:"
-msgstr ""
+msgstr "De volgende boeken worden gemarkeerd als gelezen:"
 
 #: cps/templates/book_table.html:266
 msgid "The following books will be marked unread:"
-msgstr ""
+msgstr "De volgende beoeken worden gemarkeerd als niet gelezen:"
 
 #: cps/templates/book_table.html:282 cps/templates/detail.html:410
 msgid "Edit Metadata"
@@ -2798,7 +2798,7 @@ msgstr "Metagegevens bewerken"
 
 #: cps/templates/book_table.html:285
 msgid "Edit the fields you want changed. Blank fields will be ignored:"
-msgstr ""
+msgstr "Wijzig de velden die je wilt veranderen. Lege velden worden genegeerd:"
 
 #: cps/templates/book_table.html:340
 #, fuzzy
@@ -2807,11 +2807,11 @@ msgstr "Boekenplank maken"
 
 #: cps/templates/book_table.html:343
 msgid "Please select a shelf to add the selected books to:"
-msgstr ""
+msgstr "Selecteer een boekenplank om de geselcteerde boeken aan toe te voegen:"
 
 #: cps/templates/book_table.html:345
 msgid "-- Select a Shelf --"
-msgstr ""
+msgstr "-- selecteer een boekenplank --"
 
 #: cps/templates/book_table.html:363 cps/templates/email_edit.html:81
 #: cps/templates/email_edit.html:108 cps/templates/user_table.html:27
